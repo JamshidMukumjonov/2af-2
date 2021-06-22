@@ -1,0 +1,8 @@
+@media(max-width:767px){
+    .gallery__img{
+        max-width: 49%;
+    }
+    .footer{
+        height: 100%;
+    }
+}
